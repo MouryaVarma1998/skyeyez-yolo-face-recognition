@@ -44,6 +44,8 @@ This project provides a Python application that:
 
    ```bash
    docker run --rm face-detection-app url personname
+
+   
    example : docker run --rm face-detection-app https://example.com/faces.zip JohnDoe
    Replace https://example.com/faces.zip with the actual URL of the zipped file containing face images, and JohnDoe with the name of the person.
 
