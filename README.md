@@ -40,13 +40,13 @@ This project provides a Python application that:
    docker build -t face-detection-app .
 
 2. **Run the Docker Container**
+
    Run the container with the necessary arguments (URL to the zipped file and person's name):
+   Replace https://example.com/faces.zip with the actual URL of the zipped file containing face images, and JohnDoe with the name of the person.
 
    ```bash
-   docker run --rm face-detection-app url personname
+   docker run --rm face-detection-app https://example.com/faces.zip JohnDoe
    
-   example : docker run --rm face-detection-app https://example.com/faces.zip JohnDoe
-   Replace https://example.com/faces.zip with the actual URL of the zipped file containing face images, and JohnDoe with the name of the person.
 
    
    
