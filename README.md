@@ -46,7 +46,3 @@ This project provides a Python application that:
 
    ```bash
    docker run --rm face-detection-app https://example.com/faces.zip JohnDoe
-   
-
-   
-   
