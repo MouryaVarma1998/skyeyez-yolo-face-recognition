@@ -7,10 +7,6 @@ This project fine-tunes a YOLOv5 model for face detection using a provided datas
 - [Project Overview](#project-overview)
 - [Requirements](#requirements)
 - [Setup and Installation](#setup-and-installation)
-- [Running the Application](#running-the-application)
-- [File Structure](#file-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 
